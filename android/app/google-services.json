@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "68650960398",
+    "project_id": "tete-a-tate",
+    "storage_bucket": "tete-a-tate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68650960398:android:d828bf85aeb9d0c95a9e5f",
+        "android_client_info": {
+          "package_name": "com.example.tete_a_tete"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68650960398-q9go80mrvra45qjp59d90labfpmf3t3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3k2EXsHJZj5sMSvNhx3mtcOAYipW5-lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68650960398-q9go80mrvra45qjp59d90labfpmf3t3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
